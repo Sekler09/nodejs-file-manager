@@ -1,0 +1,12 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "RSSchool NodeJS 2024 Q1 task-2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
